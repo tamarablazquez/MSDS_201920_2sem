@@ -1,6 +1,6 @@
 ---
 title: "1_Primer_fichero_en_RMarkdown"
-author: "Marco R."
+author: "Marco R"
 date: "28/9/2019"
 output: html_document
 ---
